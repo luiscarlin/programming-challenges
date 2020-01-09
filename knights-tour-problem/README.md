@@ -1,3 +1,3 @@
 # Knights Tour Problem
 
-The knight is placed on the first block of an empty board and, moving according to the rules of chess, must visit each square exactly once.
+Given an 8x8 chessboard and a Knight placed at an arbitrary location on the board, move the Knight such that it travels to every square only once.
